@@ -8,5 +8,6 @@ Subjects in this App:
 2. Computer Fundamentals and Information Technology.
 3. Communications and Soft Skills.
 4. Principle of Management.
+
 These notes are starting for BCA Batch 2022-2025. 
 For every new semester new notes will be uploaded and for that you just have to update the App.
