@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "409272037536",
+    "project_id": "bca-notez",
+    "storage_bucket": "bca-notez.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:409272037536:android:ef47dbbaf4b2d4c4bf59c5",
+        "android_client_info": {
+          "package_name": "bca.notez"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "409272037536-2454bp06p8i44nht36j194jct3v3netd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3iGW1JQi6dxxWkA2GDCfCFBKXi7veRz8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "409272037536-2454bp06p8i44nht36j194jct3v3netd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
